@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CubeNexus Inc is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://cubenexus.xyz/
+CubeNexus Inc provides a cloud‑based data integration platform that enables enterprises to connect, transform, and orchestrate data across disparate systems and services. The platform offers a unified API gateway, real‑time data pipelines, and a low‑code interface for building custom integrations, supporting use cases such as SaaS synchronization, IoT data ingestion, and legacy system modernization. CubeNexus emphasizes security, scalability, and compliance, delivering robust authentication, fine‑grained access controls, and detailed monitoring for enterprise data workflows.
+
+**Areas:** Company · Data Integration · Cloud Platform · API Gateway · Enterprise
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cubenexus.xyz/)
+- [Sign up](https://cubenexus.ai)
+- [Support](https://cubenexus.xyz/contact)
+
+**APIs profiled:** 56
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/cubenexus-inc/](https://apis.io/providers/cubenexus-inc/).
